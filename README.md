@@ -18,7 +18,14 @@ Each level presents you with a shell environment and a specific goal (e.g., find
 ### On Linux / WSL / Mac:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Shellnux-v1.git
+git clone https://github.com/1ts-Gentleman/Shellnux-v1.git
 cd Shellnux-v1
 chmod +x install.sh
 ./install.sh
+
+🧹 Uninstall
+bash
+Copy
+Edit
+chmod +x uninstall.sh
+./uninstall.sh
