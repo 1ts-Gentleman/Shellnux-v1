@@ -41,7 +41,7 @@ Repeat this process to advance through levels.
 ### On Linux / WSL / Git Bash (with sudo):
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Shellnux-v1.git
+git clone https://github.com/1ts-Gentleman/Shellnux-v1.git
 cd Shellnux-v1
 chmod +x install.sh
 ./install.sh
